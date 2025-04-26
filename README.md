@@ -19,6 +19,7 @@ conda activate cv
 git clone https://github.com/reynoldms/Autonomous-driving-application-Car-detection.git
 ```
 After cloning this repo, please download `yolo.h5` file and place in `model_data` folder.
+
 4. Move tho the repo
 ```
 cd Autonomous-driving-application-Car-detection/
