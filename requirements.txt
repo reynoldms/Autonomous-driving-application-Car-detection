@@ -21,4 +21,4 @@ imgaug
 tqdm
 mnn
 onnxruntime
-bokeh==2.4.0
+bokeh
